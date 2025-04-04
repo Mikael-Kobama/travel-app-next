@@ -34,3 +34,32 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# Travel App Next
+
+![Travel App Next](public/screenshot.png)
+
+**Travel App Next** é uma aplicação web desenvolvida com [Next.js](https://nextjs.org/) e [Tailwind CSS](https://tailwindcss.com/), projetada para oferecer aos usuários uma experiência imersiva na descoberta de destinos de viagem. A plataforma apresenta uma interface moderna e responsiva, facilitando a navegação e a exploração de diferentes locais.
+
+## Tecnologias Utilizadas
+
+- **Next.js**: Framework React para desenvolvimento de aplicações web modernas.
+- **Tailwind CSS**: Framework CSS utilitário para estilização rápida e responsiva.
+- **TypeScript**: Superset do JavaScript que adiciona tipagem estática ao código.
+- **Geist Font**: Fonte otimizada e carregada automaticamente com `next/font` para uma melhor performance e estética.
+
+## Funcionalidades Principais
+
+- **Exploração de Destinos**: Página dedicada para exibir destinos de viagem com imagens e descrições.
+- **Responsividade**: Layout adaptável a diferentes tamanhos de tela, proporcionando uma experiência consistente em dispositivos móveis e desktops.
+- **Otimização de Fontes**: Utilização da fonte Geist para uma leitura agradável e design moderno.
+
+## Como Executar o Projeto Localmente
+
+Para rodar o projeto em sua máquina local, siga os passos abaixo:
+
+1. **Clone o repositório**:
+
+   ```bash
+   git clone https://github.com/Mikael-Kobama/travel-app-next.git
+   ```
